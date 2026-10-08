@@ -18,7 +18,7 @@ Paper list for feature tracking
 1、Tracking Any Point with Frame-Event Fusion Network at High Frame Rate                                  https://github.com/ljx1002/FE-TAP      
 2、BlinkTrack: Feature Tracking over 80 FPS via Events and Images                                         https://github.com/ColieShen/BlinkTrack      
 3、FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events                       https://github.com/yuyangpoi/FE-DeTr      
-4、3D Feature Tracking via Event Camera                                                                   https://github. com/lisiqi19971013/E-3DTrack
+4、3D Feature Tracking via Event Camera                                                                   https://github.com/lisiqi19971013/E-3DTrack
 
 ### Year 2023 
 1、Data-driven Feature Tracking for Event Cameras                                                         https://github.com/uzh-rpg/deep_ev_tra      
