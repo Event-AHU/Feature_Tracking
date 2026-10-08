@@ -21,5 +21,5 @@ Paper list for feature tracking
 4、3D Feature Tracking via Event Camera                                                                   https://github.com/lisiqi19971013/E-3DTrack
 
 ### Year 2023 
-1、Data-driven Feature Tracking for Event Cameras                                                         https://github.com/uzh-rpg/deep_ev_tra      
+1、Data-driven Feature Tracking for Event Cameras                                                         https://github.com/uzh-rpg/deep_ev_tracker     
 2、Event-based feature tracking in a visual inertial odometry framework 
