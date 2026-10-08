@@ -22,3 +22,4 @@ Paper list for feature tracking
 
 ### Year 2023 
 1、Data-driven Feature Tracking for Event Cameras                                                         https://github.com/uzh-rpg/deep_ev_tra
+2、Event-based feature tracking in a visual inertial odometry framework 
