@@ -5,8 +5,8 @@ Paper list for feature tracking
 2、GoStop:Reinforcement Learning for Adaptive Temporal Aggregation in Event-Based Feature Tracking        https://github.com/kmax2001/GoSTOP
 3、E-MaT: Event-Oriented Mamba for Egocentric Point Tracking                                              
 4、MER-Tracker: Towards High-Speed 3D Point Tracking via Multi-ViewEvent-RGB Hybrid Cameras               https://github.com/changyq12/MER-Tracker   
-5、E-MaT: Event-Oriented Mamba for Egocentric Point Tracking
-6、E-TraMamba: A New Paradigm for Efficient Long-Term 3D Feature Tracking with Event Cameras
+5、E-MaT: Event-Oriented Mamba for Egocentric Point Tracking      
+6、E-TraMamba: A New Paradigm for Efficient Long-Term 3D Feature Tracking with Event Cameras      
 7、TETO:Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation            https://cvlab-kaist.github.io/TETO
 
 ### Year 2025 
