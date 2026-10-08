@@ -7,7 +7,7 @@ Paper list for feature tracking
 4、MER-Tracker: Towards High-Speed 3D Point Tracking via Multi-ViewEvent-RGB Hybrid Cameras               https://github.com/changyq12/MER-Tracker（内容不全）   
 5、E-MaT: Event-Oriented Mamba for Egocentric Point Tracking                                     
 6、E-TraMamba: A New Paradigm for Efficient Long-Term 3D Feature Tracking with Event Cameras
-6、TETO:Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation            https://cvlab-kaist.github.io/TETO
+7、TETO:Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation            https://cvlab-kaist.github.io/TETO
 
 ### Year 2025 
 1、ETAP: Event-based Tracking of Any Point                                                                https://github.com/tub-rip/ETAP
@@ -22,5 +22,3 @@ Paper list for feature tracking
 
 ### Year 2023 
 1、Data-driven Feature Tracking for Event Cameras                                                         https://github.com/uzh-rpg/deep_ev_tra
-2、EventPoint: Self-Supervised Interest Point Detection and Description forEvent-based Camera             
-3、Event-IMU fusion strategies for faster-than-IMU estimation throughput
